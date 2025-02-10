@@ -32,7 +32,8 @@ public class Exercise011 {
 		}else if (idealWeight > weight) {
 			System.out.println("Underweight");
 		}
-
+		
+		scanner.close();
 	}
 	
 }

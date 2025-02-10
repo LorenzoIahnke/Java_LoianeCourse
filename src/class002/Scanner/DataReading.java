@@ -28,6 +28,7 @@ public class DataReading {
 		System.out.println("Age: " + age);
 		System.out.println("Children Quantity: " + children);
 
+		scanner.close();
 	}
 
 }
