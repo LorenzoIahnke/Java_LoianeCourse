@@ -21,6 +21,7 @@ public class Exercise011 {
             idealWeight = (62.1f * height) - 44.7f;
         } else {
             System.out.println("Invalid!");
+            scanner.close();
             return;
         }
 		
