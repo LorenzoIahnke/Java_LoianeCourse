@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class BreakContinue {
 
 	public static void main(String[] args) {
-//		Scanner scanner = new Scanner(System.in);
+		Scanner scanner = new Scanner(System.in);
 //		
 //		System.out.println("Enter a number: ");
 //		int num = scanner.nextInt();
@@ -42,7 +42,6 @@ public class BreakContinue {
 //			System.out.println(i);
 //		}
 
-		Scanner scanner = new Scanner(System.in);
 		
 		System.out.println("Enter a number: ");
 		int num = scanner.nextInt();
