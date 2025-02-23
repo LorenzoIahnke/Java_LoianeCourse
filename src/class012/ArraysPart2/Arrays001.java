@@ -20,12 +20,12 @@ public class Arrays001 {
 		studentsGrade[2][2] = 10;
 		studentsGrade[2][3] = 7;
 
-		for (int i = 0; i < studentsGrade.length; i++) {
-			for (int j = 0; j < studentsGrade[i].length; j++) {
-				System.out.print(studentsGrade[i][j] + " | ");
-			}
-			System.out.println();
-		}
+//		for (int i = 0; i < studentsGrade.length; i++) {
+//			for (int j = 0; j < studentsGrade[i].length; j++) {
+//				System.out.print(studentsGrade[i][j] + " | ");
+//			}
+//			System.out.println();
+//		}
 
 		studentsGrade[1][3] = 8;
 		System.out.println();
